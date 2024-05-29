@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=F7EC00&random=false&width=435&lines=Web+Developer!;Fullstack+developer!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=7000&pause=1200&color=D122F7&random=false&width=435&lines=Teaching+more+than+5%2C000+students!;And+more+than+500+working+people!;Help+with+learning+orientation!)](https://git.io/typing-svg)
+
 
 ## 🔗 Links to my social profile
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C6%B0ng-nguy%E1%BB%85n-25b057260)
@@ -44,6 +44,8 @@
      <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/tailwindcss-icon.svg"></code>
      <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/kafka.svg"></code>
      <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/mysql.svg"></code>
+     <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/sass.svg"></code>
+     
      
      
      
