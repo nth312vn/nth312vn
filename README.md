@@ -45,6 +45,10 @@
      <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/kafka.svg"></code>
      <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/mysql.svg"></code>
      <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/sass.svg"></code>
+     <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/aws.svg"></code>
+     <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/nextjs.svg"></code>
+     
+     
      
      
      
