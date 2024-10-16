@@ -41,7 +41,7 @@
      <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/nestjs.svg"></code>
      <br/>
      <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/express.svg"></code>
-     <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/tailwindcss-icon.svg"></code>
+     <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/tailwindcss.svg"></code>
      <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/kafka.svg"></code>
      <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/mysql.svg"></code>
      <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/sass.svg"></code>
